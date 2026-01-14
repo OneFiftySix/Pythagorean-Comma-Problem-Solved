@@ -13,6 +13,7 @@ The modern 12-step system is asymmetric and relies on irrational frequency appro
 - 2,000 chord samples (balanced between both systems)
 - 15 engineered harmonic features
 - Reproducible data generation
+- The dataset is included in the repository under the `data/` directory.
 
 ## Methods
 - Feature engineering (interval purity, overtone alignment, ratio precision)
@@ -34,7 +35,8 @@ The modern 12-step system is asymmetric and relies on irrational frequency appro
   `notebooks/pythagorean_comma.ipynb`
 - 📊 Presentation Slides (PDF):  
   `reports/capstone_slides.pdf`
-
+- DataSet
+- 
 ## How to Run
 ```bash
 pip install -r requirements.txt
