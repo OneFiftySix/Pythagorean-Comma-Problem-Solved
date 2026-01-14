@@ -36,7 +36,8 @@ The modern 12-step system is asymmetric and relies on irrational frequency appro
 - 📊 Presentation Slides (PDF):  
   `reports/capstone_slides.pdf`
 - DataSet
-- 
+- `data/extended_octave_data.csv`
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
